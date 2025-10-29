@@ -45,3 +45,5 @@ Python에서는 아래 명령어 한 줄로 간단하게 설치할 수 있다.
 
 ```bash
 pip install opencv-python
+<img width="758" height="419" alt="image" src="https://github.com/user-attachments/assets/010dbbe4-98a3-4cf7-81e9-d641ef0d856c" />
+
