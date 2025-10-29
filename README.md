@@ -1,1 +1,2 @@
-# opencv-guide
+#### opencv-guide
+OpenCV(Open Source Computer Vision Library)는 컴퓨터가 이미지나 영상을 보고 이해할 수 있게 해주는 오픈소스 컴퓨터 비전 라이브러리이다. 쉽게 말하면, 사람이 눈으로 사물을 인식하듯이 컴퓨터가 사진이나 영상을 인식하고 분석할 수 있도록 도와주는 도구 상자다. OpenCV는 이미지 처리, 영상 분석, 객체 인식, 머신러닝 등 다양한 기능을 제공한다. 예를 들어 사진을 회색조로 변환하거나, 동영상에서 움직임을 감지하거나, 얼굴이나 물체를 인식하는 등의 작업을 쉽게 구현할 수 있다. Python에서는 `pip install opencv-python` 명령어로 설치할 수 있으며, 간단한 예시 코드로는 `import cv2` 후 이미지를 불러와 `cv2.cvtColor()`로 색상을 바꾸고, `cv2.imshow()`로 화면에 출력할 수 있다. OpenCV는 Core(기본 기능), ImgProc(이미지 처리), Video(영상 분석), Object Detection(객체 인식), ML(머신러닝) 등 여러 모듈로 구성되어 있다. 한 줄로 정리하면, OpenCV는 “컴퓨터가 이미지를 이해하게 만드는 오픈소스 도구”라고 할 수 있다.
